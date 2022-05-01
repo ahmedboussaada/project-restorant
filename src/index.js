@@ -1,0 +1,2 @@
+console.log("hhzhzhzh")
+document.getElementById("content").innerHTML += `<img src="https://ad962edbae8ba7b03b7f-d10007df79b5b7a4e475a291e50a08cf.ssl.cf3.rackcdn.com/ouvrir-un-restaurant/comment-ouvrir-un-restaurant.png" alt="">`
